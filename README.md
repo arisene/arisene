@@ -1,7 +1,7 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](images/arisene.jpg)
+[![MasterHead](images/lagos_3.jpg)](images/lagos_3.jpg)
 <h1 align="center">Hi 👋, I'm arsene</h1>
 <h3 align="center">passionate Web developer from Rwanda</h3>
-<img align="right" alt="Coding" width="400" src="images/arisene.jpg">
+<img align="right" alt="Coding" width="400" src="images/mustang.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arisene&label=Profile%20views&color=0e75b6&style=flat" alt="arisene" /> </p>
 
