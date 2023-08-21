@@ -3,7 +3,7 @@
 <h3 align="center">passionate Web developer from Rwanda</h3>
 <img align="right" alt="Coding" width="400" src="images/mustang.jpg">
 
-<p align="left"> <img src="images/IMG_2473.jpg" alt="arisene" /> </p>
+<p align="left"> <img src="images/IMG_2473.jpg" width="200" alt="arisene" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arisene" alt="arisene" /></a> </p>
 
